@@ -1,4 +1,4 @@
-public class BankAccountTester{
+public class SecondBankAccountTester{
    public static void main (String[] args){
          // Create me!
       Person ryan = new Person("Ryan Brushett","6131111111",24,new SavingsAccount(0,1234,0.06));
